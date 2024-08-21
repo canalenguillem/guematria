@@ -1,3 +1,6 @@
+from googletrans import Translator
+
+
 # Diccionario de valores de guematría para cada letra hebrea
 valores_guematria = {
     'א': 1, 'ב': 2, 'ג': 3, 'ד': 4, 'ה': 5,
